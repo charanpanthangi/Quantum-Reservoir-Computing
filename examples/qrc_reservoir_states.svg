@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#f9fafb" />
+  <text x="20" y="30" font-size="16" fill="#111827">Quantum reservoir states (example)</text>
+  <line x1="20" y1="60" x2="380" y2="60" stroke="#6b21a8" stroke-width="2" />
+  <line x1="20" y1="100" x2="340" y2="100" stroke="#2563eb" stroke-width="2" />
+  <line x1="20" y1="140" x2="300" y2="140" stroke="#10b981" stroke-width="2" />
+  <text x="20" y="180" font-size="12" fill="#374151">Placeholder visual until scripts are run.</text>
+</svg>
