@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#f9fafb" />
+  <text x="20" y="30" font-size="16" fill="#111827">MSE comparison (example)</text>
+  <rect x="50" y="80" width="60" height="80" fill="#7c3aed" />
+  <rect x="150" y="100" width="60" height="60" fill="#14b8a6" />
+  <text x="55" y="175" font-size="12" fill="#111827">QRC</text>
+  <text x="155" y="175" font-size="12" fill="#111827">Classical</text>
+  <text x="20" y="190" font-size="12" fill="#374151">Heights are illustrative only.</text>
+</svg>
